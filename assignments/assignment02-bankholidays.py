@@ -14,6 +14,7 @@ response = requests.get(url)
 data = response.json()
 
 # i)Show bank holidays that happen in Northern Ireland 2024 - 2027
+print("Northern Ireland Bank Holidays 2024 - 2027:")
 print(data['northern-ireland']['events']) 
 
 
