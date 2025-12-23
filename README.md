@@ -40,6 +40,9 @@
 
 # Project -  Analysis of Magnificent 7 Stocks
 
+![Magnificent 7 Stocks](https://i.ytimg.com/vi/y6LPqd2_PhE/maxresdefault.jpg)
+
+
 **Author**: David Scally  
 **University**: Atlantic Technological University  
 **Module**: Programming for Data Analytics  
