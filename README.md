@@ -48,9 +48,6 @@
 **Module**: Programming for Data Analytics  
 **Class**: September 2025  
 
-## Magnificent 7 Stocks
-Add Image
-
 
 ## Purpose
 
