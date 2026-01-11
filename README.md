@@ -77,7 +77,7 @@ This project looks at historical pricing metrics, stock growth, volatility and p
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Mr-Scarf/principles_of_data_analytics.git
+git clone https://github.com/Mr-Scarf/programming-for-data-analytics.git
 ```
 
 2. **Install dependencies - see file 'requirements.txt'**
